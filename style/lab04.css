@@ -7,7 +7,7 @@ body {
     border-left: 2px solid #8ba9bd;
 }
 
-/* Main heading */
+
 h1 {
     color: purple;
     font-size: 22px;
@@ -15,7 +15,7 @@ h1 {
     margin-bottom: 10px;
 }
 
-/* Navigation menu */
+
 nav {
     display: flex;
     flex-wrap: wrap;
@@ -37,7 +37,7 @@ nav a:hover {
     color: purple;
 }
 
-/* Horizontal line */
+
 hr {
     border: none;
     border-top: 2px solid #718080;
@@ -45,13 +45,13 @@ hr {
     margin-bottom: 12px;
 }
 
-/* Introductory paragraph */
+
 .intro {
     font-style: italic;
     margin-bottom: 16px;
 }
 
-/* Section headings */
+
 h2 {
     color: #008080;
     font-size: 16px;
@@ -73,20 +73,20 @@ h4 {
     margin-bottom: 12px;
 }
 
-/* Paragraph spacing */
+
 p {
     line-height: 1.4;
     margin-top: 10px;
     margin-bottom: 12px;
 }
 
-/* Special characters */
+
 .special-char {
     color: #ff6600;
     font-weight: bold;
 }
 
-/* Lists */
+
 ul,
 ol {
     padding-left: 24px;
@@ -98,14 +98,14 @@ li {
     margin-bottom: 2px;
 }
 
-/* Nested list */
+
 ul ul,
 ol ul {
     margin-top: 4px;
     margin-bottom: 4px;
 }
 
-/* Tables */
+
 table {
     border: 2px solid #555555;
     border-collapse: separate;
@@ -133,7 +133,7 @@ tfoot th {
     font-weight: bold;
 }
 
-/* Hyperlinks */
+
 a {
     color: #36515b;
 }
@@ -142,7 +142,7 @@ a:hover {
     color: purple;
 }
 
-/* Images section */
+
 .image-section h2 {
     text-align: center;
 }
